@@ -165,7 +165,7 @@ class Forklift:
         y_pred = model.predict(X_test)
 
         # save the classifier
-        with open('core_data_segment_model.pkl', 'wb') as f:
+        with open(model_name + '.pkl', 'wb') as f:
             pickle.dump(model, f)
 
             # metrics to check the regression model on test data.
