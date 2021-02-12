@@ -7,7 +7,7 @@ In the given Case Study 5 different data are there, which are as below:
 Case_Study_in_ML folder has following files and directory:
 
         1. src : it contains the logic of data processing to model creation.
-        2. models: it contains logic to run the program for different datasets.
+        2. utils: it contains logic to run diffrent predictors for the given dataset(in our case we have 5 datasets & corresponding predictors).
         3. datasets: it contain data for study, however it's empty as data are very large.
         4. output: it holds the various plots and insights about the given data.
         5. case_study.ipynb: it's an interactive jupyter notebook file.
