@@ -23,3 +23,7 @@ Thought process:
             a. Based on given data set a predictor is created.
             b. Explanation behind each predictor & subsquent aloirthm is explained in Juypter Notebook.
             c. Model with trained parameters are also saved.
+
+Download the  dependencies:
+
+    pip install -r requirements.txt
